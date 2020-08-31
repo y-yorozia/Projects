@@ -36,3 +36,6 @@ div.input_area {
 #notebook-container {
     margin-top: -70px;
 }
+.bg-top {
+    background-position: center;
+}

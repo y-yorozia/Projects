@@ -17,3 +17,4 @@ a.anchor-link:link {padding: 0!important;font-size: 0!important;}
 .white-90 {color: white!important;}
 .bg-top {background-position: center!important;}
 .bg-near-white {background-color: #fdfdfd!important;}
+div.output_stderr {background: #fdd0!important;font-size: 0px!important;}

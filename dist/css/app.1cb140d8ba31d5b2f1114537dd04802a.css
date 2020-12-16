@@ -20,14 +20,11 @@ a.anchor-link:link {padding: 0!important;font-size: 0!important;}
 div.output_stderr {background: #fdd0!important;font-size: 0px!important;}
 .headerbar{height:100px;background-color: #fff}
 .boxx {
-  transition: box-shadow .3s;
-  width: 300px;
-  height: 500px;
-  margin: 50px;
-  border-radius:10px;
-  border: 1px solid #ccc;
-  background: #fff;
-  float: left;
+	transition: box-shadow .3s;
+    border-radius: 10px;
+    background: #fff;
+    float: left;
+    text-align: center;
   
 }
 .boxx:hover {
